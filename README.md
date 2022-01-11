@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on data modeling and create a data pipeline in SQL and NOSQL databases.
 - 📫 Reach me at: deepak83elex@gmail.com
 ## Learning GitPages Repo
-<a href="https://deepak83elex.github.io/GitHubMiniLesson"> Learning GitPages </a>
+<a href="https://github.com/deepak83elex/GitHubMiniLesson.git"> Learning GitPages </a>
 
 ## Learning GitPages Repo - assignment activity 9.2
-<a href="https://deepak83elex.github.io/PCDE-Activity-9.1"> GitPages Assignment 9.2 </a>
+<a href="https://github.com/deepak83elex/PCDE-Activity-9.1"> GitPages Assignment 9.2 </a>
